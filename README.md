@@ -2,6 +2,10 @@
 
 This is a simple AI chatbot built using Python and Google Gemini API.
 
+## Demo
+
+![Demo](screenshots/demo.png)
+
 ## Features
 
 * Conversational AI
